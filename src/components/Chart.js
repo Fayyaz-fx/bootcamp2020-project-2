@@ -10,8 +10,7 @@ import {
   Legend,
 } from 'chart.js'
 import { Line } from 'react-chartjs-2'
-import { Paper, Typography } from '@material-ui/core'
-import CountUp from 'react-countup'
+
 import axios from 'axios'
 
 ChartJS.register(
