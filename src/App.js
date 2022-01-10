@@ -32,6 +32,7 @@ export default function FullWidthGrid() {
       <Grid container spacing={3}>
         <Grid item xs={12} sm={4}>
           <Paper className={classes.paper}>
+            <h1>Global Data</h1>
             <DataPaper />
           </Paper>
         </Grid>
